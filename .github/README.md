@@ -6,15 +6,15 @@
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/license/AnonymousR1025/FallenMusic?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/commit-activity/w/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <img src="https://img.shields.io/github/contributors/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Contributors">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/FallenMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AnonymousR1025/FallenMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/FallenMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/stars/Vibhti003/FallenMusic?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/Vibhti003/FallenMusic?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/Vibhti003/FallenMusic?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/license/Vibhti003/FallenMusic?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/commit-activity/w/Vibhti003/FallenMusic?style=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/Vibhti003/FallenMusic/commits/Vibhti003"> <img src="https://img.shields.io/github/last-commit/Vibhti003/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/contributors/Vibhti003/FallenMusic?style=for-the-badge" alt="Contributors">
+    <a href="https://github.com/Vibhti003/FallenMusic/issues"> <img src="https://img.shields.io/github/issues/Vibhti003/FallenMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Vibhti003/FallenMusic"> <img src="https://img.shields.io/github/repo-size/Vibhti003/FallenMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
